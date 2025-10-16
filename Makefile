@@ -1,7 +1,7 @@
 NAME = philo
 
 CC = cc
-CFLAGS = -Wall -Wextra -Werror -fsanitize=thread -o3 $(DEBUG)
+CFLAGS = -Wall -Wextra -Werror -o3 $(DEBUG)
 DEBUG = -g3
 
 ifeq ($(d),1)
