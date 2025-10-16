@@ -8,6 +8,10 @@
   - While **thinking**, they are **not eating** or **sleeping**.
   - While **sleeping**, they are **not eating** or **thinking**.
 
+<p align="center">
+  <img src="images/philo_layout.png" alt="Minishell">
+</p>
+
 ## Forks
 - There are as many **forks** as there are **philosophers**.
 - A philosopher must pick up **both the fork to their left and the fork to their right** before eating.
