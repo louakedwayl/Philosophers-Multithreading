@@ -23,3 +23,18 @@
 - **Philosophers do not communicate** with one another.
 - **Philosophers are unaware** if another is about to die.
 - **Philosophers should avoid dying** at all costs.
+
+## Clone the repository
+```bash
+git clone git@github.com:louakedwayl/Philosophers-Multithreading.git
+```
+
+## Installation
+```bash
+make
+```
+
+## Start the simulation
+``` bash
+./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
+```
